@@ -1,0 +1,5 @@
+{
+  "name": "TaxNavigator AI",
+  "description": "An intelligent tax assistant powered by Gemini. Connects to real-time IRS data to provide up-to-date guidance on tax laws, forms, and filing requirements.",
+  "requestFramePermissions": []
+}
